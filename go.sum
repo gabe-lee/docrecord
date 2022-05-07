@@ -1,0 +1,4 @@
+github.com/gabe-lee/genstructs v0.1.0 h1:wokklFQF9bpQrFdAQDte+vq+EmUzj8EjFh+mJdYasUY=
+github.com/gabe-lee/genstructs v0.1.0/go.mod h1:/aW5nP2V605hx852Vx0rcOxK/2SM26pgjJjhHSYZx/E=
+github.com/gabe-lee/rbtree v0.1.1 h1:KgUfqO7JyjcHB1ap2nKaqKdQa38foZlL6kuBZj7ZrzY=
+github.com/gabe-lee/rbtree v0.1.1/go.mod h1:FuLA4jHqASPxk3ZW+FV58REFPrkIzmsymukEvzHdrk8=
